@@ -7,7 +7,7 @@ Multi-layered Perceptron model with ReLU and Sigmoid activation function used to
 
 ##Results
 - Image 1:
-  ![Image 1](images/relu_result.png)
+  ![Image 1](relu_result.png)
 
 - Image 2:
-  ![Image 2](images/sigmoid_result.png)
+  ![Image 2](sigmoid_result.png)
