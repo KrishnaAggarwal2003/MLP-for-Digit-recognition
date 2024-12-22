@@ -12,3 +12,7 @@ Multi-layered Perceptron model with ReLU and Sigmoid activation function used to
 
 - Sigmoid():
   ![Image 2](sigmoid_result.png)
+
+## MLP from scratch
+- [MLP_from-scratch.zip](https://github.com/user-attachments/files/18221266/MLP_from-scratch.zip) contains the code for Neural network from scratch -- using only numpy and pandas.
+- It also contains the use of momentum in the backpropagation in the network.
